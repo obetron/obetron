@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Go, Ethereum, Blockchain
 - 💞️ I’m looking to collaborate on Crypto, Blockchain projects with Go
 - 📫 How to reach me: erenbasaran@gmail.com
-- 👨‍💻 For technical support: <a href='https://www.upwork.com/freelancers/~01d231b363a8729488'>Eren Basaran - Upwork</a>
+- 👨‍💻 For professional support: <a href='https://www.upwork.com/freelancers/~01d231b363a8729488'>Eren Basaran - Upwork</a>
